@@ -13,7 +13,6 @@ expense-tracker/
 ├── app/
 │   ├── main.py              # FastAPI backend with expense/user/category logic
 │   ├── models.py            # Pydantic models
-│   ├── db.py                # TinyDB storage logic
 │   ├── frontend.py          # Streamlit frontend
 │   ├── requirements.txt     # All dependencies
 │   ├── integration_test.py  # End-to-end test
